@@ -1,3 +1,4 @@
 1. Este é nosso primeiro texto gerenciado pelo Git
 2. Também coloquei coisas para um segundo commit
 3. Continuo no master
+4. Isso foi editado por Douglas Clone rsrs
